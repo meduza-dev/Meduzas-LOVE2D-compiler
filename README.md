@@ -5,6 +5,7 @@ Explanation of what does this folders and files:
 "final" folder is folder where your compiled game will appear.
 "compile.bat" script that will compile your game.
 "readme.txt" file that contains same information that you're reading right now.
+"README.md" file that displays information that you're reading right now. Used only for GitHub.
 
 Q: I want to compile my LOVE2d game, what should i do?
 A: Just follow this steps:
